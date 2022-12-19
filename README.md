@@ -24,7 +24,7 @@ The color checker and the cases indexing.
 * **plot_notebook.ipynb**:
 A simple notebook that shows how to open the numpy archives and to plot the reflectances and save them if needed.
 
-* **ploter.py**:
+* **plotter.py**:
 The python functions used by the notebook for the plots.
 
 * **requirements.txt**:
